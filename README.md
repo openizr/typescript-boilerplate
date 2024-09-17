@@ -1,3 +1,8 @@
+# ⚠️ Please use [Perseid project creator](https://perseid.dev) instead
+
+This repository is deprecated and no longer maintained.
+[Perseid project creator](https://perseid.dev) is the new official way to create boilerplates.
+
 # project-boilerplate
 
 Monorepo for different projects development use-cases. Contains a complete, ready-to-use structure and codebase for the following types of projects, based on [typescript-dev-kit](https://github.com/openizr/typescript-dev-kit):
